@@ -1,7 +1,7 @@
 
 # CRUD Spring Boot - API de Usuários
 
-Projeto backend desenvolvido em **Java 21** e **Spring Boot**, estruturado em camadas (Controller, Service, Repository, Model) nos moldes de arquiteturas corporativas modernas (seguindo o mesmo padrão conceitual do NestJS). O objetivo é gerenciar o cadastro de usuários integrado a um banco de dados PostgreSQL.
+Projeto backend desenvolvido em **Java 21** e **Spring Boot**, estruturado em camadas (Controller, Service, Repository, Model) nos moldes de arquiteturas corporativas modernas. O objetivo é gerenciar o cadastro de usuários integrado a um banco de dados PostgreSQL.
 
 ---
 
